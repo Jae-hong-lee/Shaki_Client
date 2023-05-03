@@ -1,6 +1,6 @@
 # 신개념 공유주방 플랫폼 </br>[Sha(re) Ki(tchen)] 쉐이키
 
-## 🍳배포 주소 : [Sha-ki](https://sha-ki.shop/ "Project Link")
+## 🍳배포 주소 : [Sha-ki](https://sha2ki.shop/ "Project Link")
 
 ![Logo](https://user-images.githubusercontent.com/80080990/183401984-5e414592-acbc-4bc7-a62c-d1b5974f00a0.png)
 
